@@ -17,6 +17,8 @@ public class Topic_01_CheckEnvironment {
 	@Test
 	public void Topic_01_CheckUrlAndTitle() {
 		// Verify title of the page
+		System.out.println("Automated test case for Guru99 Bank Homepage");
+		
 		String expectedTitle = driver.getTitle();
 		Assert.assertEquals(expectedTitle, "Guru99 Bank Home Page");
 
