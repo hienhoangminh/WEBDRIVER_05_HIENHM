@@ -2,6 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/reflections-0.9.11.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="/Users/hoanghien/Desktop/selenium-online/WEBDRIVER_05_HIENHM/libs/javafaker-0.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
