@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Bankguru Demo" parallel="false">
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="webdriver_11_testng.TestNG_MultiBrowsers" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Run On Firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="webdriver_11_testng.TestNG_MultiBrowsers" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

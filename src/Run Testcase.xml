@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="TestCase With Groups And Annotations">
+		<groups>
+			<run>
+				<include name="nwUser" />
+			</run>
+		</groups>
+		<classes>
+			<class name="webdriver_11_testng.TestNG_Annotations_01" />
+		</classes>
+	</test>
+	<test name="TestCase With DataProvider">
+		<classes>
+			<class name="webdriver_11_testng.TestNG_DataProviders" />
+		</classes>
+	</test>
+	<test name="TestCase With Priority">
+		<parameter name="fromCity" value="Paris" />
+		<parameter name="toCity" value="London" />
+		<classes>
+			<class name="webdriver_11_testng.TestNG_Priority" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="run multi suite">
+<suite-files>
+	<suite-file path="Run Testcase.xml" />
+	<suite-file path="Run MultiBrowser.xml" />
+</suite-files>
+
+</suite>
